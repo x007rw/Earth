@@ -1,0 +1,5 @@
+{
+  "name": "Orbital View - Gemini Earth",
+  "description": "A photorealistic 3D Earth visualization using Three.js and React Three Fiber, featuring an AI-powered planetary guide.",
+  "requestFramePermissions": []
+}
